@@ -1,0 +1,8 @@
+proceso tablasdemultiplicar
+	Para j <- 1 Hasta 10 Hacer
+		Para j <- 1 Hasta 10 Hacer
+			Escribir i, "*", j, "=", 5 * 1 
+		FinPara
+	FinPara
+FinProceso
+	
